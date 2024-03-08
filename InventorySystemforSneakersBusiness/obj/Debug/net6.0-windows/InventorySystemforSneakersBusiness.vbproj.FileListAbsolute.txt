@@ -1,0 +1,131 @@
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\InventorySystemforSneakersBusiness.exe
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\InventorySystemforSneakersBusiness.deps.json
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\InventorySystemforSneakersBusiness.runtimeconfig.json
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\InventorySystemforSneakersBusiness.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\InventorySystemforSneakersBusiness.pdb
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.Form1.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.AssemblyInfo.vb
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.vbproj.CopyComplete
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\refint\InventorySystemforSneakersBusiness.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.pdb
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.genruntimeconfig.cache
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\ref\InventorySystemforSneakersBusiness.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.Resources.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.Form2.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.Form3.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.AdminDashboard.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.UserDashboard.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonView.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonDashboard.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.AddProducts.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonAccountSettings.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonChangePassword.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonCreateAccount.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonDeleteAccount.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonBrand.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.CashierDashboard.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.UpdateAccount.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.BrandForm.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.ModelForm.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.ColorwaysForm.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.CriticalItems.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.UpdateProducts.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.CashierSearchProduct.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.AdminVoidValidation.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.CancelProducts.resources
+C:\Users\User\source\repos\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.AddDiscount.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\InventorySystemforSneakersBusiness.exe
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\InventorySystemforSneakersBusiness.deps.json
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\InventorySystemforSneakersBusiness.runtimeconfig.json
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\InventorySystemforSneakersBusiness.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\InventorySystemforSneakersBusiness.pdb
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\System.Management.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\ZstdSharp.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.vbproj.AssemblyReference.cache
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.AddDiscount.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.AddProducts.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.AdminDashboard.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.AdminVoidValidation.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.BrandForm.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonAccountSettings.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonBrand.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonChangePassword.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonCreateAccount.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonDashboard.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonDeleteAccount.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonView.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.CancelProducts.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.CashierDashboard.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.CashierSearchProduct.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.ColorwaysForm.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.CriticalItems.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.Form1.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.Form2.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.Form3.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.ModelForm.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.Resources.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.UpdateAccount.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.UpdateProducts.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.UserDashboard.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.vbproj.GenerateResource.cache
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.AssemblyInfoInputs.cache
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.AssemblyInfo.vb
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.vbproj.CoreCompileInputs.cache
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.vbproj.CopyComplete
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\refint\InventorySystemforSneakersBusiness.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.pdb
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.genruntimeconfig.cache
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\ref\InventorySystemforSneakersBusiness.dll
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.SettlePaymentForm.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.CashierDailySales.resources
+E:\visual basic\InventorySystemforSneakersBusiness\InventorySystemforSneakersBusiness\obj\Debug\net6.0-windows\InventorySystemforSneakersBusiness.buttonSalesHistory.resources
